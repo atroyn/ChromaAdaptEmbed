@@ -8,7 +8,7 @@ dependencies:
   - ncurses=6.4
   - openssl=3.0.13
   - pip=23.3.1
-  - python=3.11.8
+  - python=3.10
   - readline=8.2
   - setuptools=68.2.2
   - sqlite=3.41.2
@@ -80,9 +80,9 @@ dependencies:
     - sympy==1.12
     - threadpoolctl==3.3.0
     - tokenizers==0.15.2
-    - torch==2.3.0.dev20240310
-    - torchaudio==2.2.0.dev20240310
-    - torchvision==0.18.0.dev20240310
+    - torch
+    - torchaudio
+    - torchvision
     - tqdm==4.66.2
     - transformers==4.38.2
     - typing-extensions==4.8.0
